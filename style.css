@@ -1,0 +1,13 @@
+
+.logo {
+    font-family: 'Gloria Hallelujah', cursive;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.offcanvas-body ul li a:hover{
+    text-decoration: underline;
+}
+
+// Fazer um underline suave com transição
+
