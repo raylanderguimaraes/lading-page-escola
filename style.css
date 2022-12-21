@@ -1,4 +1,22 @@
 
+body {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h2 {
+    font-weight: 900;
+}
+
+h5{
+    font-weight: 700;
+}
+
+p {
+    font-weight: 500;
+    text-align: justify;
+}
+
 .logo {
     font-family: 'Gloria Hallelujah', cursive;
     text-transform: uppercase;
@@ -8,6 +26,9 @@
 .offcanvas-body ul li a:hover{
     text-decoration: underline;
 }
+
+
+
 
 // Fazer um underline suave com transição
 
