@@ -27,6 +27,16 @@ p {
     text-decoration: underline;
 }
 
+.red {
+    width: 100%;
+    background-color: red;
+}
+
+.blue {
+    width: 100%;
+    background-color: blue;
+}
+
 
 
 
