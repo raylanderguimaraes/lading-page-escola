@@ -1,8 +1,25 @@
 
+
+
+// atribuições images
+/* <a href="https://br.freepik.com/fotos-gratis/amigos-de-turma-sacola-educacao-escolar_18412007.htm#query=school%20kids&position=0&from_view=search&track=sph">Imagem de rawpixel.com</a> no Freepik */
+
+/* <a href="https://br.freepik.com/psd-gratuitas/de-volta-as-aulas-modelo-de-banner-de-capa-do-facebook_29620862.htm#query=school&position=24&from_view=search&track=sph">Imagem de uixtube</a> no Freepik */
+
+/* <a href="https://br.freepik.com/fotos-gratis/alunos-de-leitura-na-biblioteca_867818.htm#query=school%20kids&position=36&from_view=search&track=sph">Imagem de pressfoto</a> no Freepik */
+
+
+
 body {
     font-family: 'Roboto', sans-serif;
     
 }
+
+h1 {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
 
 h2 {
     font-weight: 900;
