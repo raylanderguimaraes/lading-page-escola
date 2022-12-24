@@ -38,6 +38,22 @@ p {
 }
 
 
+.footer-list-links {
+    list-style: none; 
+    padding: 0;"
+}
+
+.footer-link {
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+}
+
+.footer-link:hover {
+    color: gray;
+}
+
+
 
 
 // Fazer um underline suave com transição
