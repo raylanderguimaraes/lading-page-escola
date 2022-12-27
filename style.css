@@ -75,6 +75,15 @@ p {
     color: gray;
 }
 
+.hover-image {
+    transition: all 0.2s ease;
+}
+
+.hover-image:hover{
+    filter: brightness(80%);
+    transform: scale(1.05);
+}
+
 
 
 
