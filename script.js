@@ -6,7 +6,7 @@ let navbar = document.getElementsByClassName("navbar")
 function hideMyOffCanvas() {
     myOffCanvas.classList.toggle('show');
     offCanvasBackDrop[0].classList.remove('show')
-    
+
     console.log(body[0])
 
 }
